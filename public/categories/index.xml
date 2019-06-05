@@ -6,10 +6,55 @@
     <description>Recent content in Categories on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 03 Oct 2016 16:59:13 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 05 Jun 2019 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linear</title>
+      <link>/categories/linear/</link>
+      <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/categories/r/</link>
+      <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RStudio</title>
+      <link>/categories/rstudio/</link>
+      <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regressão</title>
+      <link>/categories/regress%C3%A3o/</link>
+      <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/regress%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sobre</title>
+      <link>/categories/sobre/</link>
+      <pubDate>Mon, 06 May 2019 22:55:05 -0400</pubDate>
+      
+      <guid>/categories/sobre/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>propaganda</title>
@@ -17,15 +62,6 @@
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
       <guid>/categories/propaganda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>/categories/about/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/categories/about/</guid>
       <description></description>
     </item>
     
@@ -44,15 +80,6 @@
       <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
       
       <guid>/categories/ad/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/r/</guid>
       <description></description>
     </item>
     

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sobre on Projeto Regressão</title>
+    <link>/tags/sobre/</link>
+    <description>Recent content in sobre on Projeto Regressão</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 06 May 2019 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/sobre/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sobre</title>
+      <link>/about/</link>
+      <pubDate>Mon, 06 May 2019 22:55:05 -0400</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Eu sou apenas um rapaz latino-americano
+Sem dinheiro no banco sem parentes importantes
+E vindo do interior
+Mas trago de cabeça uma canção do rádio
+Em que um antigo compositor baiano me dizia
+Tudo é divino tudo é maravilhoso. - BELCHIOR.</description>
+    </item>
+    
+  </channel>
+</rss>
