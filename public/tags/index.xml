@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Jun 2019 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>aviato</title>
+      <link>/tags/aviato/</link>
+      <pubDate>Wed, 02 Oct 2019 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/aviato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bachman</title>
+      <link>/tags/bachman/</link>
+      <pubDate>Wed, 02 Oct 2019 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/bachman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pied piper</title>
+      <link>/tags/pied-piper/</link>
+      <pubDate>Wed, 02 Oct 2019 22:55:05 -0400</pubDate>
+      
+      <guid>/tags/pied-piper/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>R Markdown</title>
@@ -80,33 +107,6 @@
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
       <guid>/tags/hooli/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aviato</title>
-      <link>/tags/aviato/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/aviato/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>bachman</title>
-      <link>/tags/bachman/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/bachman/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pied piper</title>
-      <link>/tags/pied-piper/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/tags/pied-piper/</guid>
       <description></description>
     </item>
     

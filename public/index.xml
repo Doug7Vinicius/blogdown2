@@ -6,10 +6,20 @@
     <description>Recent content on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Jun 2019 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Projeto</title>
+      <link>/project/</link>
+      <pubDate>Wed, 02 Oct 2019 22:55:05 -0400</pubDate>
+      
+      <guid>/project/</guid>
+      <description>Notas: Este trabalho originou de uma leitura breve da página: Machine Learning Plus.
+Douglas Vinícius Editor-chefe</description>
+    </item>
     
     <item>
       <title>Análise de Regressão Linear</title>
@@ -51,16 +61,6 @@ Tudo é divino tudo é maravilhoso. - BELCHIOR.</description>
       <guid>/blog/third/</guid>
       <description>Note: This article originally appeared in CodeRag.
 When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
-    </item>
-    
-    <item>
-      <title>CodeRag</title>
-      <link>/coderag/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/coderag/</guid>
-      <description>Notes: This article originally appeared in CodeRag.
-Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
     </item>
     
     <item>

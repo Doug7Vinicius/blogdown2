@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Jun 2019 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2019 22:55:05 -0400</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>articles</title>
+      <link>/categories/articles/</link>
+      <pubDate>Wed, 02 Oct 2019 22:55:05 -0400</pubDate>
+      
+      <guid>/categories/articles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Linear</title>
@@ -62,15 +71,6 @@
       <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
       
       <guid>/categories/propaganda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>articles</title>
-      <link>/categories/articles/</link>
-      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
-      
-      <guid>/categories/articles/</guid>
       <description></description>
     </item>
     
