@@ -12,12 +12,21 @@
     
     
     <item>
-      <title>Análise de Regressão Linear</title>
+      <title>Breve História da Estatística</title>
       <link>/blog/2019-06-04-regression/</link>
       <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
       
       <guid>/blog/2019-06-04-regression/</guid>
       <description> Modelo de Regressão Linear Simples  </description>
+    </item>
+    
+    <item>
+      <title>Análise de Regressão Linear</title>
+      <link>/blog/linear-regression/</link>
+      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/linear-regression/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -37,17 +46,6 @@
       <guid>/blog/third/</guid>
       <description>Note: This article originally appeared in CodeRag.
 When Hooli acquired Endframe, no one could wait to see what the tech giant would do with the revolutionary, middle-out compression technology. The wait is over: In a savvy pivot, Hooli took the software and created their newest hardware: the Hooli/Endframe Box. While initially conceived as a consumer-facing platform, the Endframe technology has been repurposed to “make the world a better place through secure, high-capacity enterprise data storage servers utilizing middle-out compression technology.</description>
-    </item>
-    
-    <item>
-      <title>Gavin Belson</title>
-      <link>/blog/first/</link>
-      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
-      
-      <guid>/blog/first/</guid>
-      <description>Note: This article originally appeared in CodeRag.
-Gavin Belson’s name has long been synonymous with innovation—but beyond his work at Hooli, do we even know the man behind the rampant success? In a Code/Rag exclusive, Belson revealed to us 10 things about himself that aren’t common knowledge.
- He’s a nature fanatic! “It’s important to me that Hooli has an effective recycling program, and a personal passion of mine is donating to elephant sanctuaries.</description>
     </item>
     
     <item>

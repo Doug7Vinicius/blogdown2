@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Projeto Regressão</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on Projeto Regressão</description>
+    <title>data on Projeto Regressão</title>
+    <link>/tags/data/</link>
+    <description>Recent content in data on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/data/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Análise de Regressão Linear 2</title>
-      <link>/post/linear-regression/</link>
+      <title>Análise de Regressão Linear</title>
+      <link>/blog/linear-regression/</link>
       <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/linear-regression/</guid>
+      <guid>/blog/linear-regression/</guid>
       <description></description>
     </item>
     
