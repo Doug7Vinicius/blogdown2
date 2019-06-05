@@ -1,15 +1,16 @@
 # Hugo Goa Demo
 
-## About
+## Sobre
 
-This site demonstrates the use of the [Hugo Goa Theme](https://github.com/shenoybr/hugo-goa) by [@shenoybr](https://github.com/shenoybr).
+Demonstração do site [Hugo Goa Theme](https://github.com/shenoybr/hugo-goa) by [@shenoybr](https://github.com/shenoybr).
 
-## Usage
+## Usando
 
 * Install [Hugo](gohugo.io)
 * git clone https://github.com/shenoybr/hugo-goa-demo
 * Run `hugo server -w -v` from the root directory
 * Site will be visible at `localhost:1313`
+* ISO Ubuntu 18.04
 
 ## License
 
