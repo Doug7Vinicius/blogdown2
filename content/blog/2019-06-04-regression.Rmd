@@ -1,9 +1,10 @@
 ---
-title: "Breve História da Estatística"
+title: "Regressão"
 author: "Douglas Vinícius"
 date: 2019-06-05T21:13:14-05:00
 categories: ["R", "RStudio", "Regressão", "Linear"]
 tags: ["R Markdown", "plot", "regression", "linear"]
+
 ---
 
 ```{r setup, include=FALSE}
@@ -11,4 +12,3 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 # Modelo de Regressão Linear Simples
-
