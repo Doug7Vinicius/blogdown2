@@ -1,0 +1,52 @@
+---
+title: "Teste T"
+author: "Douglas Vinícius"
+date: "10 de junho de 2019"
+output: 
+  ioslides_presentation:
+     widescreen: true
+     smaller: true
+     transition: slower
+     logo: 
+     
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Teste de Hipóteses?
+
+This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+http://www.portalaction.com.br/inferencia/462-2o-caso-variancias-desconhecidas-porem-iguais
+
+
+An Introduction to Statistical Inference and Its Applications with R
+
+http://www.sthda.com/english/wiki/unpaired-two-samples-t-test-in-r
+
+http://www.sthda.com/english/wiki/unpaired-two-samples-t-test-in-r
+
+https://www.statmethods.net/stats/ttest.html
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+
+## Slide with Bullets
+
+- Bullet 1
+- Bullet 2
+- Bullet 3
+
+## Slide with R Output
+
+```{r cars, echo = TRUE}
+summary(cars)
+```
+
+## Slide with Plot
+
+```{r pressure}
+plot(pressure)
+```
+
