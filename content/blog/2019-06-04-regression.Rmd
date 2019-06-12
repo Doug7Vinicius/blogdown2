@@ -11,4 +11,4 @@ tags: ["R Markdown", "plot", "regression", "linear"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# Modelo de Regressão Linear Simples
+# Modelo de Regressão Linear Simples \(\beta_0\)

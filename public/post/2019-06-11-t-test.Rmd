@@ -1,0 +1,50 @@
+---
+title: Teste T de Student para Duas Médias
+author: Douglas Vinícius
+date: '2019-06-12'
+slug: t-test
+categories:
+  - R
+  - RStudio
+tags:
+  - plot
+  - R Markdown
+  - t test
+  - inference
+  - probability
+comments: no
+showcomments: yes
+showpagemeta: yes
+---
+
+## Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)
+
+Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.
+
+
+## Requisitos
+
+- Os dois desvios-padrão populacionais não são conhecidos, mas supõe-se quw sejam iguais, isto é, \(\sigma_{1}\) = \(\sigma_{2}\).
+- As duas amostras são independentes.
+- Ambas as amostras são *amostras aleatórias simples*.
+- Uma ou as duas condições seguintes são satisfeitas: Os dois tamanhos amostrais são ambos *grandes* (com n<sub>1</sub> > 30 e n<sub>2</sub> > 30), ou ambas as amostras provêm de populações com distibuições normais. (Para pequenas amostras, a exigência de normalidade é relaxada, no sentido de que os procedimentos funcionam bem desde que não haja *outliers* e os desvios da normalidade naõ sejam extremos.)
+
+
+### O que é Amostras Independentes?
+
+Duas amostras são *independentes* se os valores amostrais de uma população não estão relacionados ou, de alguma forma, emparelhados ou combinados com os valores amostrais selecionados da outra população.
+
+
+### Estatística de Teste:
+$$
+t = \frac{(\bar{x}_1 - \bar{x}_2) - (\mu_1 - \mu_2)}{\sqrt{\frac{s_p²}{n_1} + \frac{s_p²}{n_2}}}
+$$
+em que
+$$
+s_p² = \frac{(n_1 - 1)s_1² + (n_2 - 1)s_2²}{(n_1 - 1) + (n_2 - 1)}  \textrm{(Variância combinada)}
+$$
+e o número de graus de liberdade é dado por gl \(= n_1 + n_2 - 2\).
+
+### Estimativa de intervalo de Confiança para \(\mu_1 - \mu_2\) 
+
+

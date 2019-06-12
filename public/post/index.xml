@@ -6,18 +6,19 @@
     <description>Recent content in Posts on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Análise de Regressão Linear 2</title>
-      <link>/post/linear-regression/</link>
-      <pubDate>Wed, 05 Jun 2019 00:00:00 +0000</pubDate>
+      <title>Teste T de Student para Duas Médias</title>
+      <link>/post/t-test/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/post/linear-regression/</guid>
-      <description></description>
+      <guid>/post/t-test/</guid>
+      <description>Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais) Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.
+ Requisitos  Os dois desvios-padrão populacionais não são conhecidos, mas supõe-se quw sejam iguais, isto é, \(\sigma_{1}\) = \(\sigma_{2}\). As duas amostras são independentes.</description>
     </item>
     
   </channel>

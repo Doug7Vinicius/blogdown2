@@ -5,7 +5,6 @@ date: "06/06/2019"
 output: 
   ioslides_presentation:
     transition: slower
-    css: /home/douglas7/Documentos/R-Project/Rmarkdown/Rpresentation/style/style.css
     logo: /home/douglas7/Documentos/R-Project/Rmarkdown/Rpresentation/unir.png
 ---
 
