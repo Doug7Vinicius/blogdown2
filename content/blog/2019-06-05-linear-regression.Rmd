@@ -1,5 +1,5 @@
 ---
-title: Introdução de Análise de Regressão Linear 
+title: Introdução a Análise de Regressão Linear 
 author: Douglas Vinícius
 date: '06/06/2019'
 slug: linear-regression
