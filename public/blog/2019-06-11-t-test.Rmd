@@ -1,7 +1,7 @@
 ---
 title: "Teste T de Student para Duas Médias"
 author: "Douglas Vinícius"
-date: '2019-06-12'
+date: '06/12/2019'
 slug: t-test
 categories:
   - R
@@ -41,10 +41,12 @@ $$
 t = \frac{(\bar{x}_1 - \bar{x}_2) - (\mu_1 - \mu_2)}{\sqrt{\frac{s_p²}{n_1} + \frac{s_p²}{n_2}}}
 $$
 em que
+
 $$
 s_p² = \frac{(n_1 - 1)s_1² + (n_2 - 1)s_2²}{(n_1 - 1) + (n_2 - 1)}  \textrm{(Variância combinada)}
 $$
 e o número de graus de liberdade é dado por gl \(= n_1 + n_2 - 2\).
+
 
 ### Estimativa de intervalo de Confiança para \(\mu_1 - \mu_2\) 
 

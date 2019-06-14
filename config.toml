@@ -1,5 +1,6 @@
 ## Basic Configuration
 
+
 baseurl = "http://127.0.0.1:4800"
 builddrafts = false
 canonifyurls = false
@@ -63,3 +64,5 @@ socialmarkup = true
     identifier = "coderag"
     weight = 300
     url = "/coderag/"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

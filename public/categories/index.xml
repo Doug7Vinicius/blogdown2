@@ -21,9 +21,18 @@
     </item>
     
     <item>
+      <title>Linear</title>
+      <link>/categories/linear/</link>
+      <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
+      
+      <guid>/categories/linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R</title>
       <link>/categories/r/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
       
       <guid>/categories/r/</guid>
       <description></description>
@@ -32,18 +41,9 @@
     <item>
       <title>RStudio</title>
       <link>/categories/rstudio/</link>
-      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/rstudio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linear</title>
-      <link>/categories/linear/</link>
       <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
       
-      <guid>/categories/linear/</guid>
+      <guid>/categories/rstudio/</guid>
       <description></description>
     </item>
     

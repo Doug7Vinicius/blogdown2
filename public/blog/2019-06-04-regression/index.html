@@ -72,9 +72,36 @@
   <div class="col-md-12 text-justify content">
     
 
-
-<div id="modelo-de-regressao-linear-simples-beta_0" class="section level1">
-<h1>Modelo de Regressão Linear Simples <span class="math inline">\(\beta_0\)</span></h1>
+<div id="teste-t-para-duas-mu-amostras-independentes-e-sigma-iguais" class="section level2">
+<h2>Teste T para Duas <span class="math inline">\(\mu\)</span> (Amostras Independentes e <span class="math inline">\(\sigma²\)</span> Iguais)</h2>
+<p>Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.</p>
+</div>
+<div id="requisitos" class="section level2">
+<h2>Requisitos</h2>
+<ul>
+<li>Os dois desvios-padrão populacionais não são conhecidos, mas supõe-se quw sejam iguais, isto é, <span class="math inline">\(\sigma_{1}\)</span> = <span class="math inline">\(\sigma_{2}\)</span>.</li>
+<li>As duas amostras são independentes.</li>
+<li>Ambas as amostras são <em>amostras aleatórias simples</em>.</li>
+<li>Uma ou as duas condições seguintes são satisfeitas: Os dois tamanhos amostrais são ambos <em>grandes</em> (com n<sub>1</sub> &gt; 30 e n<sub>2</sub> &gt; 30), ou ambas as amostras provêm de populações com distibuições normais. (Para pequenas amostras, a exigência de normalidade é relaxada, no sentido de que os procedimentos funcionam bem desde que não haja <em>outliers</em> e os desvios da normalidade naõ sejam extremos.)</li>
+</ul>
+<div id="o-que-e-amostras-independentes" class="section level3">
+<h3>O que é Amostras Independentes?</h3>
+<p>Duas amostras são <em>independentes</em> se os valores amostrais de uma população não estão relacionados ou, de alguma forma, emparelhados ou combinados com os valores amostrais selecionados da outra população.</p>
+</div>
+<div id="estatistica-de-teste" class="section level3">
+<h3>Estatística de Teste:</h3>
+<p><span class="math display">\[
+t = \frac{(\bar{x}_1 - \bar{x}_2) - (\mu_1 - \mu_2)}{\sqrt{\frac{s_p²}{n_1} + \frac{s_p²}{n_2}}}
+\]</span>
+em que</p>
+<p><span class="math display">\[
+s_p² = \frac{(n_1 - 1)s_1² + (n_2 - 1)s_2²}{(n_1 - 1) + (n_2 - 1)}  \textrm{(Variância combinada)}
+\]</span>
+e o número de graus de liberdade é dado por gl <span class="math inline">\(= n_1 + n_2 - 2\)</span>.</p>
+</div>
+<div id="estimativa-de-intervalo-de-confianca-para-mu_1---mu_2" class="section level3">
+<h3>Estimativa de intervalo de Confiança para <span class="math inline">\(\mu_1 - \mu_2\)</span></h3>
+</div>
 </div>
 
   </div>
@@ -139,8 +166,6 @@
   <span><a class="menu-item" href="/blog">blog</a></span>
   
   
-  <span><a class="menu-item" href="/blog/t-test/"> | next &gt;</a></span>
-  
   
   <h4 class="text-center"><a class="menu-item" href="/">home</a></h4>
 </section>
@@ -156,6 +181,11 @@
   
   
 </footer>
+
+
+<script src="/js/math-code.js"></script>
+<script async src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
 
 </div>
 
