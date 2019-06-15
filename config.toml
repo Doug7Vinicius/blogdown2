@@ -1,7 +1,7 @@
 ## Basic Configuration
 
 
-baseurl = "http://127.0.0.1:4800"
+baseurl = "https://regression-project.netlify.com/"
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
