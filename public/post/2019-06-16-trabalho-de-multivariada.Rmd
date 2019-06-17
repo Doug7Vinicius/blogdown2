@@ -1,0 +1,18 @@
+---
+title: Ansiedade Estatística
+author: Douglas Vinícius
+date: '06/21/2019'
+slug: trabalho-de-multivariada
+categories:
+  - R
+  - RStudio
+tags:
+  - plot
+  - R Markdown
+  - multivariate
+comments: no
+showcomments: yes
+showpagemeta: yes
+---
+
+##

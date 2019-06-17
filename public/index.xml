@@ -27,8 +27,7 @@ Douglas Vinícius Editor-chefe</description>
       <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
       
       <guid>/blog/2019-06-04-regression/</guid>
-      <description>Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais) Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.
- Requisitos  Os dois desvios-padrão populacionais não são conhecidos, mas supõe-se quw sejam iguais, isto é, \(\sigma_{1}\) = \(\sigma_{2}\). As duas amostras são independentes.</description>
+      <description></description>
     </item>
     
     <item>
@@ -46,13 +45,21 @@ Tudo é divino tudo é maravilhoso. - BELCHIOR.</description>
     </item>
     
     <item>
+      <title>Ansiedade Estatística</title>
+      <link>/blog/trabalho-de-multivariada/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/trabalho-de-multivariada/</guid>
+      <description>   </description>
+    </item>
+    
+    <item>
       <title>Diagnóstico de Regressão</title>
       <link>/blog/diagnostic-regression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blog/diagnostic-regression/</guid>
-      <description>Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais) Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.
- Requisitos  Os dois desvios-padrão populacionais não são conhecidos, mas supõe-se quw sejam iguais, isto é, \(\sigma_{1}\) = \(\sigma_{2}\). As duas amostras são independentes.</description>
+      <description></description>
     </item>
     
     <item>
@@ -72,8 +79,7 @@ Introdução completa à regressão linear em R A regressão linear é usada par
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blog/t-test/</guid>
-      <description>Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais) Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.
- Requisitos  Os dois desvios-padrão populacionais não são conhecidos, mas supõe-se quw sejam iguais, isto é, \(\sigma_{1}\) = \(\sigma_{2}\). As duas amostras são independentes.</description>
+      <description>## Carregando pacotes exigidos: moonBook ## Carregando pacotes exigidos: webr ## Registered S3 methods overwritten by &amp;#39;ggplot2&amp;#39;: ## method from ## [.quosures rlang ## c.quosures rlang ## print.quosures rlang ## ## Two Sample t-test ## ## data: BMI by sex ## t = -0.50823, df = 762, p-value = 0.6114 ## alternative hypothesis: true difference in means is not equal to 0 ## 95 percent confidence interval: ## -0.6348532 0.</description>
     </item>
     
   </channel>

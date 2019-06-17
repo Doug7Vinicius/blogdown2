@@ -17,8 +17,24 @@ showcomments: yes
 showpagemeta: yes
 
 ---
+```{r, echo=FALSE, out.width = "70%", fig.align='center'}
+require(moonBook)
+require(webr)
+
+x=t.test(BMI~sex,data=acs,var.equal=TRUE)
+x
+plot(x)
+```
+
+<https://douglas-vincius.shinyapps.io/T-test-shiny/>
 
 ## Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)
+
+
+###
+
+O teste *t* foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás 
+
 
 Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.
 
@@ -37,6 +53,7 @@ Duas amostras são *independentes* se os valores amostrais de uma população n�
 
 
 ### Estatística de Teste:
+
 $$
 t = \frac{(\bar{x}_1 - \bar{x}_2) - (\mu_1 - \mu_2)}{\sqrt{\frac{s_p²}{n_1} + \frac{s_p²}{n_2}}}
 $$

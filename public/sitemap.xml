@@ -126,6 +126,10 @@
   </url>
   
   <url>
+    <loc>/blog/trabalho-de-multivariada/</loc>
+  </url>
+  
+  <url>
     <loc>/blog/diagnostic-regression/</loc>
   </url>
   
@@ -144,6 +148,11 @@
   
   <url>
     <loc>/tags/inference/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/multivariate/</loc>
     <priority>0</priority>
   </url>
   
