@@ -43,7 +43,7 @@ stackoverflow = "11490202/douglas-vinícius"
 
 ## Extras
 [params.extra]
-copyright = "© 2019. Douglas Vinícius. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+copyright = "© 2019. Douglas Vinícius."
 poweredby = true
 highlightjs = true
 socialmarkup = true

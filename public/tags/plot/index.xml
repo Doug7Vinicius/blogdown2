@@ -6,10 +6,19 @@
     <description>Recent content in plot on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Jun 2019 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>O Problema das Agulhas de Buffon</title>
+      <link>/blog/buffon-needle/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/buffon-needle/</guid>
+      <description>“\(\pi\)”</description>
+    </item>
     
     <item>
       <title>Regressão</title>
@@ -39,7 +48,7 @@
     </item>
     
     <item>
-      <title>Introdução de Análise de Regressão Linear</title>
+      <title>Introdução a Análise de Regr  essão Linear</title>
       <link>/blog/linear-regression/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -55,7 +64,9 @@ Introdução completa à regressão linear em R A regressão linear é usada par
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blog/t-test/</guid>
-      <description>## Carregando pacotes exigidos: moonBook ## Carregando pacotes exigidos: webr ## Registered S3 methods overwritten by &amp;#39;ggplot2&amp;#39;: ## method from ## [.quosures rlang ## c.quosures rlang ## print.quosures rlang ## ## Two Sample t-test ## ## data: BMI by sex ## t = -0.50823, df = 762, p-value = 0.6114 ## alternative hypothesis: true difference in means is not equal to 0 ## 95 percent confidence interval: ## -0.6348532 0.</description>
+      <description>https://douglas-vincius.shinyapps.io/T-test-shiny/
+Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
+Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.</description>
     </item>
     
   </channel>

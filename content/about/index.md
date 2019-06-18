@@ -22,3 +22,6 @@ Mas trago de cabeça uma canção do rádio
 Em que um antigo compositor baiano me dizia
 
 Tudo é divino tudo é maravilhoso. - BELCHIOR.
+
+
+

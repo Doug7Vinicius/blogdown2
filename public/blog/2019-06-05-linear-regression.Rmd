@@ -1,5 +1,5 @@
 ---
-title: Introdução a Análise de Regressão Linear 
+title: "Introdução a Análise de Regr  essão Linear" 
 author: Douglas Vinícius
 date: '06/06/2019'
 slug: linear-regression
@@ -40,7 +40,7 @@ A regressão linear é uma das técnicas de modelagem preditiva mais utilizadas.
 
 Esta equação matemática pode ser generalizada da seguinte forma:
 
-$$ Y = \ beta_ {1} + \ beta_ {2} X + \ epsilon $$
+$$ Y = \beta_{1} + \beta_{2} X + \epsilon $$
 onde, β1 é o intercepto e β2 é o declive.
 
 Coletivamente, eles são chamados de coeficientes de regressão e ϵ é o termo de erro, a parte de Y que o modelo de regressão é incapaz de explicar.
