@@ -18,6 +18,7 @@ showcomments: yes
 showpagemeta: yes
 
 ---
+
 [PDF](pdf/slides2.pdf)
 [Slides](slides/t-test.html)
 
