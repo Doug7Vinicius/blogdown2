@@ -1,67 +1,8 @@
-## Basic Configuration
+[build]
+publish = "public"
+command = "hugo"
 
-baseurl = "https://regression-project.netlify.com/"
-builddrafts = false
-canonifyurls = false
-languageCode = "en-US"
-
-contentdir = "content"
-layoutdir = "layouts"
-publishdir = "public"
-
-author = "Douglas Vinícius"
-title = "Projeto Regressão"
-
-theme = "hugo-goa"
-
-## Hugo Built-in Features
-disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
-googleAnalytics = "XYZ"
-enableRobotsTXT = true
-
-## Site Settings
-[params]
-author = "Projeto Regressão" 
-intro = "Análise de Regressão e Estatística"
-description = "Tópicos de Regressão Linear/Multipla, Multivariada, Inferência, ..."
-authorimage = "icon_linear_regression.svg"
-dateformat = "Jun 24, 2019"
-
-## Site Meta Settings
-[params.meta]
-description = "Website sobre Análise de Regressão e RMarkdown"
-keywords = "minimalist,blog,goa,hugo,developer,linear,regression,rmarkdown,"
-
-
-## Social Accounts
-[params.social]
-github = "Doug7Vinicius"
-instagram = "Jossivanaaa"
-linkedin = "douglasvinicius7"
-stackoverflow = "11490202/douglas-vinícius"
-
-## Extras
-[params.extra]
-copyright = "© 2019. Douglas Vinícius."
-poweredby = true
-highlightjs = true
-socialmarkup = true
-
-## Main Menu
-[[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "/blog/"
-[[menu.main]]
-    name = "sobre"
-    identifier = "about"
-    weight = 200
-    url = "/about/"
-[[menu.main]]
-    name = "projeto"
-    identifier = "coderag"
-    weight = 300
-    url = "/coderag/"
-
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+[context.production.environment]
+HUGO_VERSION = "0.55.6"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
