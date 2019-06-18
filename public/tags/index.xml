@@ -84,6 +84,15 @@
     </item>
     
     <item>
+      <title>t test</title>
+      <link>/tags/t-test/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/t-test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>inference</title>
       <link>/tags/inference/</link>
       <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
@@ -116,15 +125,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/multivariate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>t test</title>
-      <link>/tags/t-test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/t-test/</guid>
       <description></description>
     </item>
     

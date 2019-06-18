@@ -1,28 +1,33 @@
 ---
 title: "Teste T de Student para Duas Médias"
 author: "Douglas Vinícius"
-date: '06/12/2019'
+date: '2019-06-19'
 slug: t-test
 categories:
   - R
   - RStudio
   - t test
+  - inference
+  - probability
 tags:
   - plot
   - R Markdown
   - t test
-  - inference
-  - probability
 comments: no
 showcomments: yes
 showpagemeta: yes
 
 ---
-```{r setup, include=TRUE, echo=FALSE, fig.cap="Distribuição t - Um aplicação em Shiny:<https://douglas-vincius.shinyapps.io/T-test-shiny/>"}
+[PDF](pdf/slides2.pdf)
+[Slides](slides/t-test.html)
+
+```{r setup, include=TRUE, echo=FALSE, fig.cap="Distribuição t comparada com a normal."}
 library(knitr)
 opts_chunk$set(echo = TRUE)
 knitr::include_graphics("/img/Rplot1.png")
 ```
+
+Aplicação Shiny da distribuição t: [T-test](https://douglas-vincius.shinyapps.io/T-test-shiny/)
 
 ## Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)
 

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>probability on Projeto Regressão</title>
-    <link>/categories/probability/</link>
-    <description>Recent content in probability on Projeto Regressão</description>
+    <title>inference on Projeto Regressão</title>
+    <link>/categories/inference/</link>
+    <description>Recent content in inference on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/probability/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/inference/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -21,15 +21,6 @@
  Figure 1: Distribuição t comparada com a normal.  Aplicação Shiny da distribuição t: T-test
 Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
 Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais.</description>
-    </item>
-    
-    <item>
-      <title>O Problema das Agulhas de Buffon</title>
-      <link>/blog/buffon-needle/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/buffon-needle/</guid>
-      <description>“\(\pi\)”</description>
     </item>
     
   </channel>
