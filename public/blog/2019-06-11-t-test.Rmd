@@ -19,9 +19,6 @@ showpagemeta: yes
 
 ---
 
-[PDF](pdf/slides2.pdf)
-[Slides](slides/t-test.html)
-
 ```{r setup, include=TRUE, echo=FALSE, fig.cap="Distribuição t comparada com a normal."}
 library(knitr)
 opts_chunk$set(echo = TRUE)

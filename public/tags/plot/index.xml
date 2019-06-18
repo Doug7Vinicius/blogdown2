@@ -28,8 +28,7 @@ Introdução completa à regressão linear em R A regressão linear é usada par
       <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/t-test/</guid>
-      <description>PDF Slides
- Figure 1: Distribuição t comparada com a normal.  Aplicação Shiny da distribuição t: T-test
+      <description>Figure 1: Distribuição t comparada com a normal.  Aplicação Shiny da distribuição t: T-test
 Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
 Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais.</description>
     </item>
