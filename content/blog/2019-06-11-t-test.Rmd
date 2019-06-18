@@ -19,10 +19,13 @@ showpagemeta: yes
 
 ---
 
+[PDF](pdf/slides2.pdf)
+[Slides](slides/t-test.html)
+
 ```{r setup, include=TRUE, echo=FALSE, fig.cap="Distribuição t comparada com a normal."}
 library(knitr)
 opts_chunk$set(echo = TRUE)
-knitr::include_graphics("/img/Rplot1.png")
+knitr::include_graphics("img/Rplot1.png")
 ```
 
 Aplicação Shiny da distribuição t: [T-test](https://douglas-vincius.shinyapps.io/T-test-shiny/)
