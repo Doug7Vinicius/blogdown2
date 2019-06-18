@@ -6,22 +6,10 @@
     <description>Recent content in probability on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/probability/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Teste T de Student para Duas Médias</title>
-      <link>/blog/t-test/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/t-test/</guid>
-      <description>PDF Slides
- Figure 1: Distribuição t comparada com a normal.  Aplicação Shiny da distribuição t: T-test
-Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
-Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais.</description>
-    </item>
     
     <item>
       <title>O Problema das Agulhas de Buffon</title>
@@ -30,6 +18,18 @@ Este método é usado para dados amostrais provenientes de duas amostras indepen
       
       <guid>/blog/buffon-needle/</guid>
       <description>“\(\pi\)”</description>
+    </item>
+    
+    <item>
+      <title>Teste T de Student para Duas Médias</title>
+      <link>/blog/t-test/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/t-test/</guid>
+      <description>PDF Slides
+ Figure 1: Distribuição t comparada com a normal.  Aplicação Shiny da distribuição t: T-test
+Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
+Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais.</description>
     </item>
     
   </channel>

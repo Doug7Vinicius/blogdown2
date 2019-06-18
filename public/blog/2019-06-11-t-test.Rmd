@@ -1,7 +1,7 @@
 ---
 title: "Teste T de Student para Duas Médias"
 author: "Douglas Vinícius"
-date: '2019-06-19'
+date: '2019-06-17'
 slug: t-test
 categories:
   - R

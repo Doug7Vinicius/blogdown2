@@ -6,7 +6,7 @@
     <description>Recent content in R Markdown on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,24 +14,12 @@
     <item>
       <title>Introdução a Análise de Regressão Linear</title>
       <link>/blog/linear-regression/</link>
-      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/linear-regression/</guid>
       <description>Revisão e Visão Geral Podemos Predizer o preço da tarifa de metrô a partir do custo de uma fatia de pizza? Em 1964, Eric Bram
 O modelo estatístico de regressão linear simples descreve a relação mais simples entre duas variáveis - uma linha reta.
 Introdução completa à regressão linear em R A regressão linear é usada para prever o valor de uma variável contínua Y com base em uma ou mais variáveis preditoras de entrada X.</description>
-    </item>
-    
-    <item>
-      <title>Teste T de Student para Duas Médias</title>
-      <link>/blog/t-test/</link>
-      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/t-test/</guid>
-      <description>PDF Slides
- Figure 1: Distribuição t comparada com a normal.  Aplicação Shiny da distribuição t: T-test
-Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
-Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais.</description>
     </item>
     
     <item>
@@ -44,30 +32,15 @@ Este método é usado para dados amostrais provenientes de duas amostras indepen
     </item>
     
     <item>
-      <title>Regressão</title>
-      <link>/blog/2019-06-04-regression/</link>
-      <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
+      <title>Teste T de Student para Duas Médias</title>
+      <link>/blog/t-test/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/2019-06-04-regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ansiedade Estatística</title>
-      <link>/blog/trabalho-de-multivariada/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/trabalho-de-multivariada/</guid>
-      <description>   </description>
-    </item>
-    
-    <item>
-      <title>Diagnóstico de Regressão</title>
-      <link>/blog/diagnostic-regression/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/diagnostic-regression/</guid>
-      <description></description>
+      <guid>/blog/t-test/</guid>
+      <description>PDF Slides
+ Figure 1: Distribuição t comparada com a normal.  Aplicação Shiny da distribuição t: T-test
+Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
+Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais.</description>
     </item>
     
   </channel>
