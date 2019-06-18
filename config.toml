@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Projeto Regressão" 
-intro = "Análise de Regressão e Estatística"
-description = "Tópicos de Regressão Linear/Multipla, Multivariada, Inferência, ..."
+intro = "Análise de Regressão e Rmarkdown"
+description = "Tópicos de Regressão Linear/Multipla, Multivariada, Inferência, Rmarkdown..."
 authorimage = "icon_linear_regression.svg"
 dateformat = "Jun 24, 2019"
 

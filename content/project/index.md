@@ -15,5 +15,7 @@ title: Projeto
 Notas: Este trabalho originou de uma leitura breve da página:  [Machine Learning Plus](https://www.machinelearningplus.com/machine-learning/complete-introduction-linear-regression-r/).
 
 
+
 Douglas Vinícius
+
 Editor-chefe
