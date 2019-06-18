@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>t test on Projeto Regressão</title>
-    <link>/tags/t-test/</link>
+    <link>/categories/t-test/</link>
     <description>Recent content in t test on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="/tags/t-test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/t-test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

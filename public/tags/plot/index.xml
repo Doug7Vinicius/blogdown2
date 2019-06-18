@@ -6,10 +6,21 @@
     <description>Recent content in plot on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/plot/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introdução a Análise de Regressão Linear</title>
+      <link>/blog/linear-regression/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/linear-regression/</guid>
+      <description>Revisão e Visão Geral Podemos Predizer o preço da tarifa de metrô a partir do custo de uma fatia de pizza? Em 1964, Eric Bram
+O modelo estatístico de regressão linear simples descreve a relação mais simples entre duas variáveis - uma linha reta.
+Introdução completa à regressão linear em R A regressão linear é usada para prever o valor de uma variável contínua Y com base em uma ou mais variáveis preditoras de entrada X.</description>
+    </item>
     
     <item>
       <title>O Problema das Agulhas de Buffon</title>
@@ -48,24 +59,12 @@
     </item>
     
     <item>
-      <title>Introdução a Análise de Regr  essão Linear</title>
-      <link>/blog/linear-regression/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/linear-regression/</guid>
-      <description>Revisão e Visão Geral Podemos Predizer o preço da tarifa de metrô a partir do custo de uma fatia de pizza? Em 1964, Eric Bram
-O modelo estatístico de regressão linear simples descreve a relação mais simples entre duas variáveis - uma linha reta.
-Introdução completa à regressão linear em R A regressão linear é usada para prever o valor de uma variável contínua Y com base em uma ou mais variáveis preditoras de entrada X.</description>
-    </item>
-    
-    <item>
       <title>Teste T de Student para Duas Médias</title>
       <link>/blog/t-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blog/t-test/</guid>
-      <description>https://douglas-vincius.shinyapps.io/T-test-shiny/
-Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
+      <description>Figure 1: Distribuição t - Um aplicação em Shiny:https://douglas-vincius.shinyapps.io/T-test-shiny/  Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
 Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.</description>
     </item>
     

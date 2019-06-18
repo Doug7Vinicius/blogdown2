@@ -26,8 +26,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/blog/t-test/</guid>
-      <description>https://douglas-vincius.shinyapps.io/T-test-shiny/
-Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
+      <description>Figure 1: Distribuição t - Um aplicação em Shiny:https://douglas-vincius.shinyapps.io/T-test-shiny/  Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
 Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.</description>
     </item>
     

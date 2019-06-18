@@ -21,9 +21,18 @@
     </item>
     
     <item>
+      <title>Linear</title>
+      <link>/categories/linear/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/linear/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R</title>
       <link>/categories/r/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/r/</guid>
       <description></description>
@@ -32,9 +41,18 @@
     <item>
       <title>RStudio</title>
       <link>/categories/rstudio/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>/categories/rstudio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Regressão</title>
+      <link>/categories/regress%C3%A3o/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/regress%C3%A3o/</guid>
       <description></description>
     </item>
     
@@ -48,29 +66,20 @@
     </item>
     
     <item>
-      <title>Linear</title>
-      <link>/categories/linear/</link>
-      <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/linear/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Regressão</title>
-      <link>/categories/regress%C3%A3o/</link>
-      <pubDate>Wed, 05 Jun 2019 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/regress%C3%A3o/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>sobre</title>
       <link>/categories/sobre/</link>
       <pubDate>Mon, 06 May 2019 22:55:05 -0400</pubDate>
       
       <guid>/categories/sobre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>t test</title>
+      <link>/categories/t-test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/t-test/</guid>
       <description></description>
     </item>
     

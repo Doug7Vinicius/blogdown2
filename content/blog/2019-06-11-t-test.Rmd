@@ -6,6 +6,7 @@ slug: t-test
 categories:
   - R
   - RStudio
+  - t test
 tags:
   - plot
   - R Markdown
@@ -17,29 +18,11 @@ showcomments: yes
 showpagemeta: yes
 
 ---
-```{r, echo=FALSE, out.width = "70%", fig.align='center'}
-# Display the Student's t distributions with various
-# degrees of freedom and compare to the normal distribution
-x <- seq(-4, 4, length=100)
-hx <- dnorm(x)
-
-degf <- c(1, 3, 8, 30)
-colors <- c("red", "blue", "darkgreen", "gold", "black")
-labels <- c("gl=1", "gl=3", "gl=8", "gl=30", "normal")
-
-plot(x, hx, type="l", lty=2, xlab="x valores",
-     ylab="Densidade", main="Comparação da Distribuição t")
-
-for (i in 1:4){
-  lines(x, dt(x,degf[i]), lwd=2, col=colors[i])
-}
-
-legend("topright", inset=.05, title="Distribuição",
-       labels, lwd=2, lty=c(1, 1, 1, 1, 2), col=colors)
-
-
+```{r setup, include=TRUE, echo=FALSE, fig.cap="Distribuição t - Um aplicação em Shiny:<https://douglas-vincius.shinyapps.io/T-test-shiny/>"}
+library(knitr)
+opts_chunk$set(echo = TRUE)
+knitr::include_graphics("/img/Rplot1.png")
 ```
-<https://douglas-vincius.shinyapps.io/T-test-shiny/>
 
 ## Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)
 

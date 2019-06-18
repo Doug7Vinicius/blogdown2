@@ -6,10 +6,21 @@
     <description>Recent content in linear on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 05 Jun 2019 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/linear/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introdução a Análise de Regressão Linear</title>
+      <link>/blog/linear-regression/</link>
+      <pubDate>Mon, 24 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/linear-regression/</guid>
+      <description>Revisão e Visão Geral Podemos Predizer o preço da tarifa de metrô a partir do custo de uma fatia de pizza? Em 1964, Eric Bram
+O modelo estatístico de regressão linear simples descreve a relação mais simples entre duas variáveis - uma linha reta.
+Introdução completa à regressão linear em R A regressão linear é usada para prever o valor de uma variável contínua Y com base em uma ou mais variáveis preditoras de entrada X.</description>
+    </item>
     
     <item>
       <title>Regressão</title>
@@ -27,17 +38,6 @@
       
       <guid>/blog/diagnostic-regression/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Introdução a Análise de Regr  essão Linear</title>
-      <link>/blog/linear-regression/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/linear-regression/</guid>
-      <description>Revisão e Visão Geral Podemos Predizer o preço da tarifa de metrô a partir do custo de uma fatia de pizza? Em 1964, Eric Bram
-O modelo estatístico de regressão linear simples descreve a relação mais simples entre duas variáveis - uma linha reta.
-Introdução completa à regressão linear em R A regressão linear é usada para prever o valor de uma variável contínua Y com base em uma ou mais variáveis preditoras de entrada X.</description>
     </item>
     
   </channel>
