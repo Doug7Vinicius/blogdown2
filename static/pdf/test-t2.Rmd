@@ -1,26 +1,9 @@
 ---
 title: "Teste T de Student para Duas Médias"
 author: "Douglas Vinícius"
-date: '2019-06-17'
-slug: t-test
-categories:
-  - R
-  - RStudio
-  - t test
-  - inference
-  - probability
-tags:
-  - plot
-  - R Markdown
-  - t test
-comments: no
-showcomments: yes
-showpagemeta: yes
-
+date: "19/06/2019"
+output: pdf_document
 ---
-
-[PDF](pdf/slides2.pdf)
-[Slides](slides/t-test.html)
 
 ```{r setup, include=TRUE, echo=FALSE, fig.cap="Distribuição t comparada com a normal."}
 library(knitr)
