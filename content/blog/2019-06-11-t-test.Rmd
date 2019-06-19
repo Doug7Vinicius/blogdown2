@@ -1,7 +1,7 @@
 ---
 title: "Teste T de Student para Duas Médias"
 author: "Douglas Vinícius"
-date: '2019-06-17'
+date: '2019-06-19'
 slug: t-test
 categories:
   - R
@@ -33,11 +33,6 @@ Aplicação Shiny da distribuição t: [T-test](https://douglas-vincius.shinyapp
 ## Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)
 
 
-###
-
-O teste *t* foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás 
-
-
 Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.
 
 
@@ -62,7 +57,7 @@ $$
 em que
 
 $$
-s_p² = \frac{(n_1 - 1)s_1² + (n_2 - 1)s_2²}{(n_1 - 1) + (n_2 - 1)}  \textrm{(Variância combinada)}
+S_p² = \frac{(n_1 - 1)s_1² + (n_2 - 1)s_2²}{(n_1 - 1) + (n_2 - 1)}  \textrm{(Variância combinada)}
 $$
 e o número de graus de liberdade é dado por gl \(= n_1 + n_2 - 2\).
 
@@ -70,3 +65,51 @@ e o número de graus de liberdade é dado por gl \(= n_1 + n_2 - 2\).
 ### Estimativa de intervalo de Confiança para \(\mu_1 - \mu_2\) 
 
 
+### Exemplo
+
+ - Um estudo objetivou analisar a associação entre a síndrome metabólica (SM) em indivíduos de origem japonesa, com mais de 30 anos de idade, residentes em um município do interior de São Paulo.
+ -População 1: indivíduos com SM.
+ -População 2: indivíduos sem SM.
+
+Pergunta-se? Indivíduos com SM e sem SM possuem, em média, valores iguais para a pressão arterial sistólica(PAS)?
+
+ - \(\mu_1\) é a média da PAS na população 1;
+ - \(\mu_2\) é a média da PAS na população 2.
+ 
+Testando as hipóteses: 
+$$H_0: \mu_1 = \mu_2
+\\H_a: \mu_1 \neq \mu_2$$
+
+Lembrando que \(\sigma_1\) é o desvio padrão da PAS na população 1, e \(\sigma_2\) é o desvio padrão da PAS na população 2; Pressupondo que $$\sigma = \sigma_1 = \sigma_2$$.
+
+Teremos $$S_p² = \frac{(n_1 - 1)s_1² + (n_2 - 1)s_2²}{(n_1 + n_2 - 2)}$$
+
+Lembrando que o teste t<sub>cal</sub> é um valor de uma variável aleatória que segue uma distribuição t Student com n<sub>1</sub> + n<sub>2</sub> − 2 graus de liberdade.
+
+$$t_{cal} = \frac{(\bar{x}_1 - \bar{x}_2)}{\sqrt{\frac{s_p²}{n_1} + \frac{s_p²}{n_2}}}$$ em que $$S_p² = \frac{(n_1 - 1)s_1² + (n_2 - 1)s_2²}{(n_1 + n_2 - 2)}$$.
+
+ - Seja o tamanho das amostras da população 1 igual 52 e população 2 igual 50.
+ - Seja um nível de significância \(\alpha\) = 0,05; 1 - \(\alpha\) = 0,95.
+ - O número de graus de liberdade é 52+50-2=100.
+
+Imagem adquirirda no link:<https://douglas-vincius.shinyapps.io/T-test-shiny/>
+
+```{r, include=TRUE, echo=FALSE, fig.cap="."}
+knitr::include_graphics("img/t_two_0.05.png")
+```
+
+-Não se rejeita H<sub>0</sub> se encontrar um valor de t<sub>cal</sub> > -1,984 e t<sub>cal</sub> < 1,984.
+$$
+n_1 = 50 \ \ \ \ \ \ \ \ \ n_2 = 52
+\\ \bar{x}_1 = 142,1\ \ mmHg \ \ \ \ \ \ \ \bar{x}_2 = 121,6\ \ mmHg
+\\S_1 = 23\ \ mmHg \ \ \ \ \ \ \ S_2 = 21,3\ \ mmHg
+\\\ 
+\\S_p² = \frac{(50 - 1)23² + (52 - 1)21,3²}{(50 + 52 - 2)} = 492,0981
+\\\
+\\t_{cal} = \frac{(142,1 - 121,6)}{\sqrt{\frac{492,0981}{50} + \frac{492,0981}{52}}} \approx 4,67
+$$
+
+Como t<sub>cal</sub> > t<sub>tab</sub>, rejeita-se H<sub>0</sub> para um nível de significância de 0,05.
+
+Assim temos evidências de que na população de indivíduos de origem japonesa, com mais de 30 anos e residentes no município do interior de São Paulo, com SM e sem SM possuem médias
+diferentes de PAS.

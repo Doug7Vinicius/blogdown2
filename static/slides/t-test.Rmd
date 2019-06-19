@@ -1,7 +1,7 @@
 ---
 title: "Teste T para Duas Médias"
 author: "Douglas Vinícius"
-date: "12 de junho de 2019"
+date: "19 de junho de 2019"
 output: 
   ioslides_presentation:
      widescreen: true
@@ -79,6 +79,9 @@ s_p² = \frac{(n_1 - 1)s_1² + (n_2 - 1)s_2²}{(n_1 - 1) + (n_2 - 1)}  \textrm{(
 $$
 e o número de graus de liberdade é dado por gl \(= n_1 + n_2 - 2\).
 
+Mas o que seria S<sub>p</sub>? Estamos pressupondo que a variável de interesse tem o desvio padrão igual nas duas populações. Entretanto, isso não significa que os desvios padrão S<sub>1</sub> e S<sub>2</sub> que encontraremos nas amostras serão iguais. Assim temos que S<sub>p</sub> é uma estimativa da variância populacional \(\sigma²\).
+S<sub>p</sub> é uma média entre as variâncias amostrais S<sub>1</sub> e S<sub>2</sub>,
+ponderada pelos respectivos graus de liberdade  n<sub>1</sub> - 1 e n<sub>2</sub> − 1.
 
 ## Intervalo de Confiança
 
