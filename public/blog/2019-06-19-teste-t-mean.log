@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.19)  19 JUN 2019 20:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.6.19)  19 JUN 2019 20:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**test-t2.tex
-(./test-t2.tex
+**2019-06-19-teste-t-mean.tex
+(./2019-06-19-teste-t-mean.tex
 LaTeX2e <2018-12-01>
 (/home/douglas7/.TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -450,8 +450,9 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \thanksmarkwidth=\skip47
 \thanksmargin=\skip48
 \droptitle=\skip49
-) (./test-t2.aux)
-\openout1 = `test-t2.aux'.
+)
+No file 2019-06-19-teste-t-mean.aux.
+\openout1 = `2019-06-19-teste-t-mean.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 88.
 LaTeX Font Info:    ... okay on input line 88.
@@ -525,9 +526,8 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 88.
 LaTeX Info: Redefining \pageref on input line 88.
 LaTeX Info: Redefining \nameref on input line 88.
-(./test-t2.out) (./test-t2.out)
 \@outlinefile=\write3
-\openout3 = `test-t2.out'.
+\openout3 = `2019-06-19-teste-t-mean.out'.
 
 (/home/douglas7/.TinyTeX/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -544,154 +544,26 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-</home/douglas7/Documentos/R-Project/blogdown/blogdown2/static/img/Rplot1.png, 
-id=28, 430.60875pt x 368.1253pt>
-File: /home/douglas7/Documentos/R-Project/blogdown/blogdown2/static/img/Rplot1.
-png Graphic file (type png)
-<use /home/douglas7/Documentos/R-Project/blogdown/blogdown2/static/img/Rplot1.p
-ng>
-Package pdftex.def Info: /home/douglas7/Documentos/R-Project/blogdown/blogdown2
-/static/img/Rplot1.png  used on input line 92.
-(pdftex.def)             Requested size: 430.64053pt x 368.15248pt.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 101.
 
-(/home/douglas7/.TinyTeX/texmf-dist/tex/latex/lm/ot1lmr.fd
-File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 101.
-
-(/home/douglas7/.TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
-File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 101
-.
-(/home/douglas7/.TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
-File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 101
-.
-(/home/douglas7/.TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
-File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 101.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 101.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 101.
-LaTeX Font Info:    Try loading font information for U+msa on input line 101.
-(/home/douglas7/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 101.
-(/home/douglas7/.TinyTeX/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 101.
+LaTeX Warning: File `img/Rplot1.png' not found on input line 95.
 
 
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 101.
+! Package pdftex.def Error: File `img/Rplot1.png' not found: using draft settin
+g.
 
-(/home/douglas7/.TinyTeX/texmf-dist/tex/latex/lm/ts1lmr.fd
-File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 101.
-
-
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 115.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 115.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 115.
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 142.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 142.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 142.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 142.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 146.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 146.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 146.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 146.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 146.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 146.
-
-
-[1
-
-{/home/douglas7/.TinyTeX/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2 </ho
-me/douglas7/Documentos/R-Project/blogdown/blogdown2/static/img/Rplot1.png (PNG 
-copy)>]
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 183.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 183.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 183.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 183.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 183.
-
-
-
-LaTeX Warning: Command \texttwosuperior invalid in math mode on input line 183.
-
-
-
-! Package inputenc Error: Unicode character − (U+2212)
-(inputenc)                not set up for use with LaTeX.
-
-See the inputenc package documentation for explanation.
+See the pdftex.def package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.186 ... distribuição t Student com n1 + n2 −
-                                                   2 graus de liberdade. 
+l.95 \includegraphics{img/Rplot1.png}
+                                      
 Here is how much of TeX's memory you used:
- 10173 strings out of 494553
- 144181 string characters out of 6177720
- 211276 words of memory out of 5000000
- 13695 multiletter control sequences out of 15000+600000
- 58930 words of font info for 57 fonts, out of 8000000 for 9000
+ 9968 strings out of 494553
+ 139899 string characters out of 6177720
+ 204645 words of memory out of 5000000
+ 13565 multiletter control sequences out of 15000+600000
+ 17669 words of font info for 19 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 28i,5n,33p,444b,390s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,1n,32p,248b,270s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 !  ==> Fatal error occurred, no output PDF file produced!

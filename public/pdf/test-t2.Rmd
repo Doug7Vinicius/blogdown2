@@ -1,31 +1,18 @@
 ---
 title: "Teste T de Student para Duas Médias"
 author: "Douglas Vinícius"
-date: '2019-06-11'
-slug: t-test
-categories:
-  - R
-  - RStudio
-  - t test
-  - inference
-  - probability
-tags:
-  - plot
-  - R Markdown
-  - t test
-comments: no
-showcomments: yes
-showpagemeta: yes
+date: "19/06/2019"
+output: pdf_document
 
 ---
-
-[PDF](pdf/slides2.pdf)
-[Slides](slides/t-test.html)
+```{r, include=FALSE}
+options(tinytex.verbose = TRUE)
+```
 
 ```{r setup, include=TRUE, echo=FALSE, fig.cap="Distribuição t comparada com a normal."}
 library(knitr)
 opts_chunk$set(echo = TRUE)
-knitr::include_graphics("img/Rplot1.png")
+knitr::include_graphics("/home/douglas7/Documentos/R-Project/blogdown/blogdown2/static/img/Rplot1.png")
 ```
 
 Aplicação Shiny da distribuição t: [T-test](https://douglas-vincius.shinyapps.io/T-test-shiny/)
@@ -94,8 +81,8 @@ $$t_{cal} = \frac{(\bar{x}_1 - \bar{x}_2)}{\sqrt{\frac{s_p²}{n_1} + \frac{s_p²
 
 Imagem adquirirda no link:<https://douglas-vincius.shinyapps.io/T-test-shiny/>
 
-```{r, include=TRUE, echo=FALSE, fig.cap="."}
-knitr::include_graphics("img/t_two_0.05.png")
+```{r setup1, echo=FALSE, out.height="507.84px", out.width="565.44px", fig.height=5.29, fig.width=5.89} 
+knitr::include_graphics("/home/douglas7/Documentos/R-Project/blogdown/blogdown2/static/img/t_two_0.05.png")
 ```
 
 -Não se rejeita H<sub>0</sub> se encontrar um valor de t<sub>cal</sub> > -1,984 e t<sub>cal</sub> < 1,984.

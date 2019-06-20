@@ -6,41 +6,21 @@
     <description>Recent content in R on Projeto Regressão</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 19 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Introdução a Análise de Regressão Linear</title>
-      <link>/blog/linear-regression/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/linear-regression/</guid>
-      <description>Revisão e Visão Geral Podemos Predizer o preço da tarifa de metrô a partir do custo de uma fatia de pizza? Em 1964, Eric Bram
-O modelo estatístico de regressão linear simples descreve a relação mais simples entre duas variáveis - uma linha reta.
-Introdução completa à regressão linear em R A regressão linear é usada para prever o valor de uma variável contínua Y com base em uma ou mais variáveis preditoras de entrada X.</description>
-    </item>
-    
-    <item>
-      <title>O Problema das Agulhas de Buffon</title>
-      <link>/blog/buffon-needle/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/buffon-needle/</guid>
-      <description>“\(\pi\)”</description>
-    </item>
-    
-    <item>
       <title>Teste T de Student para Duas Médias</title>
-      <link>/blog/t-test/</link>
-      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      <link>/blog/teste-t-mean/</link>
+      <pubDate>Wed, 19 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>/blog/t-test/</guid>
+      <guid>/blog/teste-t-mean/</guid>
       <description>PDF Slides
  Figure 1: Distribuição t comparada com a normal.  Aplicação Shiny da distribuição t: T-test
-Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais)  O teste t foi desenvolvido por William Sealy Gosset em 1908, ele trabalhou no Guinness Cervejaria mais de 100 anos atrás
-Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais.</description>
+Teste T para Duas \(\mu\) (Amostras Independentes e \(\sigma²\) Iguais) Este método é usado para dados amostrais provenientes de duas amostras independentes para o teste de hipóteses feitas sobre duas médias populacionais. Destina a situação de dois desvios-padrão populacionais são desconhecidos, mas se supõe que sejam iguais.
+ Requisitos  Os dois desvios-padrão populacionais não são conhecidos, mas supõe-se quw sejam iguais, isto é, \(\sigma_{1}\) = \(\sigma_{2}\).</description>
     </item>
     
   </channel>
