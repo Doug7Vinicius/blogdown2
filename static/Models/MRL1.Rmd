@@ -1,0 +1,17 @@
+---
+title: "Modelo Linear em R"
+author: "Douglas Vinícius"
+date: "30/06/2019"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+## Quando usar a modelagem linear?
+
+A modelagem linear é usada para explicar ou modelar uma relação entre um única variável **Y**, chamada resposta, resultado, saída ou variável dependente; e um ou mais preditor, entrada, variáveis independentes ou explicativas, **X<sub>1</sub>**, ..., **X<sub>p</sub>**, onde p é o número de preditores. Análise de regressão é outro termo usado para modelagem linear embora as regressões também possam ser não lineares.
+
