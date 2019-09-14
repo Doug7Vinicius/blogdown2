@@ -11,7 +11,7 @@ Demonstração do site [Projeto Regressão](regression.netlify.com) by [@Douglas
 * Install [Hugo](gohugo.io)
 * git clone https://github.com/shenoybr/hugo-goa-demo
 * Run `hugo server -w -v` from the root directory
-* Site will be visible at `regression-project.netlify.com`
+* Site will be visible at `regression.netlify.com`
 * ISO Ubuntu 18.04
 * RStudio
 
