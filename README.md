@@ -4,7 +4,7 @@
 
 ## Sobre
 
-Demonstração do site [Projeto Regressão](regression-project.netlify.com) by [@Douglas Vinícius](https://github.com/Doug7Vinicius).
+Demonstração do site [Projeto Regressão](regression.netlify.com) by [@Douglas Vinícius](https://github.com/Doug7Vinicius).
 
 ## Usando
 
